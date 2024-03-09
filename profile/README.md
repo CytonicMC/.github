@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the codebase for the WebNet Minecraft server! 
+This is the codebase for the Cytonic Minecraft server! 
 <!--
 
 **Here are some ideas to get you started:**
