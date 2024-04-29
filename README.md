@@ -1,2 +1,2 @@
 # .github
-The code for the WebNet Minecraft network!
+The code for the Cytonic Minecraft network!
